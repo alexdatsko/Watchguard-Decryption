@@ -3,7 +3,7 @@ import struct
 from Crypto.Cipher import AES
 
 
-#### Modified 4/24/25 - Alex Datsko @ MME Consulting Inc
+#### Modified 4/24/25 - Alex Datsko @ 
 #### Found MODE_ECB is required as 2nd param to AES.new with pycryptodome
 
 
